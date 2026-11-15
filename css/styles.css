@@ -440,4 +440,11 @@ textarea[aria-invalid="true"] {
   display: block;
   margin: 0 auto 16px;
   border: 3px solid var(--color-primary);
+  
+  
+}
+
+.card img:hover{
+  scale: 1.5;
+  transition: ease-in-out 0.3s;
 }
