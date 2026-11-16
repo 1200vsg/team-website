@@ -42,4 +42,4 @@ The browser stores our theme preference in `localStorage`, which is separated by
 
 **6. Name something duplicated across your HTML pages. What problem does that duplication cause, and how might it be avoided?**
 
-The navigation bar and footer are duplicated across our HTML pages. This can make maintenance difficult because changing the navigation or footer requires updating every page, and forgetting one can make the website inconsistent. A server-side template system or shared components could help avoid this duplication.
+The navigation bar and footer are duplicated across our HTML pages. This can make maintenance difficult because changing the navigation or footer requires updating every page, and forgetting one can make the website inconsistent.
